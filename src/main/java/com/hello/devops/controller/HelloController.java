@@ -9,6 +9,6 @@ public class HelloController {
 	
 	@GetMapping("/devops")
 	public String greetDevops() {
-		return "Hello from Spring Boot + Docker + Jenkins";
+		return "Hello from Spring Boot + Docker + Jenkins 2.0";
 	}
 }
